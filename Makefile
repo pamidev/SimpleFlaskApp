@@ -1,4 +1,4 @@
-.PHONE: deps run
+.PHONE: deps run lint
 
 deps:
 	pip install -r requirements.txt; \
